@@ -1,0 +1,9 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Frame">
+<path id="Vector" fill-rule="evenodd" clip-rule="evenodd" d="M4 5.84211C4 5.37702 4.37702 5 4.84211 5H19.1579C19.623 5 20 5.37702 20 5.84211V17.6316C20 18.0967 19.623 18.4737 19.1579 18.4737H4.84211C4.37702 18.4737 4 18.0967 4 17.6316V5.84211Z" stroke="#60666B" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" fill-rule="evenodd" clip-rule="evenodd" d="M7.99999 9.21042C8.34879 9.21042 8.63157 8.92764 8.63157 8.57884C8.63157 8.23004 8.34879 7.94727 7.99999 7.94727C7.65119 7.94727 7.36841 8.23004 7.36841 8.57884C7.36841 8.92764 7.65119 9.21042 7.99999 9.21042Z" stroke="#60666B" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M8.21053 11.7368L10.3158 13.421L12.8421 10.4736L20 15.9473V17.6315C20 18.0966 19.623 18.4736 19.1579 18.4736H4.84211C4.37702 18.4736 4 18.0966 4 17.6315V15.9473L8.21053 11.7368Z" stroke="#60666B" stroke-linejoin="round"/>
+<line id="Line 134" x1="1.5" y1="8.5" x2="1.5" y2="15.5" stroke="#60666B" stroke-linecap="round"/>
+<line id="Line 135" x1="22.5" y1="8.5" x2="22.5" y2="15.5" stroke="#60666B" stroke-linecap="round"/>
+</g>
+</svg>

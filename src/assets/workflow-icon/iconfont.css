@@ -1,0 +1,119 @@
+@font-face {
+  font-family: "iflowfont"; /* Project id 4453148 */
+  src: url('iconfont.woff2?t=1727606299304') format('woff2'),
+       url('iconfont.woff?t=1727606299304') format('woff'),
+       url('iconfont.ttf?t=1727606299304') format('truetype');
+}
+
+.iflowfont {
+  font-family: "iflowfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.iflow-git-pull:before {
+  content: "\e76c";
+}
+
+.iflow-shell-exe:before {
+  content: "\e76a";
+}
+
+.iflow-backend-build:before {
+  content: "\e76b";
+}
+
+.iflow-upload-to-server:before {
+  content: "\e769";
+}
+
+.iflow-html:before {
+  content: "\e767";
+}
+
+.iflow-yunxing-java:before {
+  content: "\e766";
+}
+
+.iflow-chengxubaofabu:before {
+  content: "\e765";
+}
+
+.iflow-banli:before {
+  content: "\e764";
+}
+
+.iflow-shebei:before {
+  content: "\e751";
+}
+
+.iflow-xiaoxijianting:before {
+  content: "\e711";
+}
+
+.iflow-bingxinghuiju:before {
+  content: "\e719";
+}
+
+.iflow-tiaojianwangguan:before {
+  content: "\e718";
+}
+
+.iflow-liuchengbianliang:before {
+  content: "\e6c0";
+}
+
+.iflow-liuchengbiaoti:before {
+  content: "\e6bd";
+}
+
+.iflow-quanjushijian:before {
+  content: "\e690";
+}
+
+.iflow-dingshirenwu:before {
+  content: "\e6aa";
+}
+
+.iflow-bangdingbiaodan:before {
+  content: "\e6a7";
+}
+
+.iflow-faqiren:before {
+  content: "\e6ad";
+}
+
+.iflow-jieshushijian:before {
+  content: "\e6b1";
+}
+
+.iflow-tiaojian:before {
+  content: "\e6b6";
+}
+
+.iflow-shenpi:before {
+  content: "\e6bb";
+}
+
+.iflow-bingxingwangguan:before {
+  content: "\e6cd";
+}
+
+.iflow-ziliucheng:before {
+  content: "\e6ca";
+}
+
+.iflow-zidingyihuodong:before {
+  content: "\e6c9";
+}
+
+.iflow-chaosong:before {
+  content: "\e6c8";
+}
+
+.iflow-kaishishijian:before {
+  content: "\e6d7";
+}
+
