@@ -1,3 +1,0 @@
-import comp from "/Users/xieyuqing/Desktop/未命名文件夹/组件库以及组件库文档/zc-doc_副本/docs/.vuepress/.temp/pages/index.html.vue"
-const data = JSON.parse("{\"path\":\"/\",\"title\":\"\",\"lang\":\"zh-CN\",\"frontmatter\":{\"pageLayout\":\"home\",\"externalLinkIcon\":false,\"config\":[{\"type\":\"hero\",\"full\":true,\"background\":\"tint-plate\",\"hero\":{\"name\":\"前端组文档示例\",\"tagline\":\"VuePress Next Theme\",\"text\":\"一个基于 Ant Design Vue 3.x 的 组件库\",\"actions\":[{\"theme\":\"brand\",\"text\":\"立即前往\",\"link\":\"/components/doc/\"}]}}]},\"headers\":[],\"readingTime\":{\"minutes\":0.16,\"words\":48},\"git\":{},\"filePathRelative\":\"README.md\",\"categoryList\":[]}")
-export { comp, data }
